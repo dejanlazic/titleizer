@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["title","titleize()"],"longSearchIndex":["title","title::titleize()"],"info":[["Title","","Title.html","","<p>The gem takes a string and makes the first letter of each word uppercase\n<p>Author &mdash; Dejan Lazic\n\n"],["titleize","Title","Title.html#method-c-titleize","(title)","<p>title - input string to be converted\n"]]}}
