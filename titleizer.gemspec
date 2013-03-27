@@ -6,6 +6,6 @@ Gem::Specification.new do |s|
   s.description = "Titles helper gem"
   s.authors = ["dejanlazic"]
   s.email =  'dejan.lazic@student.ncirl.ie'
-  s.homepage = 'https://github.com/dejanlazic/titleizer.git'
+  s.homepage = 'git://github.com/dejanlazic/titleizer.git'
   s.files = ["lib/titleizer.rb"]
 end
