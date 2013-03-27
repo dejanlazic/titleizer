@@ -1,4 +1,4 @@
-﻿Gem name: titleizer
+Gem name: titleizer
 
 Description:
 
